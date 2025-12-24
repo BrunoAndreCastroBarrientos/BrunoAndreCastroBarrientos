@@ -1,25 +1,22 @@
 ## Hi there 👋
 
-I'm Bruno, a **Full-Stack Developer** specialized in building scalable, high-performance cloud applications with modern technologies.
+I'm Bruno, a **Backend Cloud Developer** with 3+ years of experience building cloud-native microservices and distributed systems.
 
 ### 🚀 What I Do
-- **Backend Development**: Java/Spring Boot, Quarkus, Spring WebFlux with reactive programming
-- **Frontend Development**: React, TypeScript, Next.js, React Native with Expo
-- **Cloud & DevOps**: AWS, Docker, microservices architecture, event-driven systems
-- **Databases**: PostgreSQL, MongoDB, Redis, Oracle
-- **API Development**: REST, GraphQL, WebSockets, CQRS pattern
+- **Cloud-Native Architecture**: Microservices with Quarkus & Spring Boot
+- **Reactive Programming**: Spring WebFlux, event-driven systems
+- **Distributed Patterns**: SAGA, CQRS, Circuit Breaker, Strangler
+- **Cloud Platforms**: AWS, Azure, GCP - Lambda, Cloud Run, Kubernetes
+- **Observability**: Grafana, Prometheus monitoring & metrics
+- **Messaging**: Kafka, Redis for real-time event streaming
 
 ### 💼 Currently Working On
-Building distributed payment systems and financial platforms with high concurrency requirements, implementing SAGA patterns, JWT authentication, and real-time processing.
+Building resilient financial platforms with high availability, reactive backends for payment processing, and scalable microservices architectures focused on security and performance.
 
 ### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### 📫 Let's Connect
-Building resilient systems one microservice at a time ⚡
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/
